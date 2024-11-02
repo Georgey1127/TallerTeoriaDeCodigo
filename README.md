@@ -1,7 +1,8 @@
 
 # Generación y Transformación de Palabras Código con Matrices Generadoras
+Integrantes: Jorge Bolivar y Andres Martinez
 
-Este proyecto de Python proporciona un conjunto de funciones para verificar si dos matrices generadoras de códigos lineales son equivalentes, utilizando operaciones como permutación de columnas y multiplicación por un escalar en un campo finito.
+Este proyecto de Python proporciona un conjunto de funciones para verificar si dos matrices generadoras de códigos lineales son equivalentes, utilizando operaciones como permutación de columnas y multiplicación por un escalar en un campo finito. 
 
 ## Descripción General del Código
 
@@ -63,6 +64,19 @@ Para ejecutar este código, necesitarás Python 3.x y la librería `numpy`.
    ```bash
    python nombre_del_script.py
    ```
+   - La línea `python nombre_del_script.py` es un ejemplo general de cómo puedes ejecutar el archivo de Python en la terminal.
+
+   - Debes reemplazar `nombre_del_script.py` por el nombre real del archivo donde guardaste el código (por ejemplo, `permutaciones.py`).
+
+   - Entonces, el comando real para ejecutar el archivo sería algo como:
+
+   ```bash
+   python permutaciones.py
+   ```
+   
+3. **Otra manera de ejecutar**:
+   - Descarga el archivo ipynb y abralo en un Google Colaboratory, ahi ejecute el código y verifique que todo vaya acorde a lo esperado.
+   
 
 ### Estructura de Resultados
 
